@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Borel&family=Pacifico&display=swap');
+
+
+
+*{
+    text-align: center;
+}
+#navbar {
+    background-color:burlywood;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+font-family: "Pacifico";
+margin-bottom: 20px;
+}
+.img-container {
+    display: flex;
+    justify-content: space-around;
+    
+}
+.coffee-img {
+    width: 30%;
+}
+#footer {
+    background-color: brown;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.logo img {
+    height: 100px;
+}
+h1{
+    font-family: "Pacifico";
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: yellow;
+}
